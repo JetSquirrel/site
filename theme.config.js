@@ -20,7 +20,7 @@ export default {
           property="twitter:card"
           content={meta.image ? "summary_large_image" : "summary"}
         />
-        <meta property="twitter:site" content="@shuding_" />
+        <meta property="twitter:site" content="@jetsquirrel2048" />
         <meta property="twitter:title" content={meta.title} />
         <meta property="twitter:description" content={meta.description} />
         <meta property="twitter:url" content="https://shud.in" />
