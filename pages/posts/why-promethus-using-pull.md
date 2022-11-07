@@ -1,12 +1,11 @@
 ---
 title: "为什么 Promethus 采用了 Pull 模式？"
-date: 2022-05-19T12:02:44+08:00
+date: 2022/05/19
 draft: false
 categories:
 - 云原生
 - 可观测性
-tags:
-- promethues
+tag: promethues,java
 ---
 
 在计算机系统的监控中，采集指标通常有两种方式： 

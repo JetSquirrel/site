@@ -1,11 +1,10 @@
 ---
 title: "Informer Deltafifo 源码解读"
-date: 2022-05-19T22:16:06+08:00
+date: 2022/05/19
 draft: false
 categories:
 - 云原生
-tags: 
-- K8s
+tag: K8s
 
 ---
 

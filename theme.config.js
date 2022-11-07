@@ -4,8 +4,8 @@ export default {
   head: ({ meta }) => {
     return (
       <>
-        <meta name="author" content="Shu Ding" />
-        <link rel="canonical" href="https://shud.in" />
+        <meta name="author" content="Jet Squirrel" />
+        <link rel="canonical" href="https://jetsquirrel.cloud" />
         <meta name="title" content={meta.title} />
         <meta property="description" content={meta.description} />
         <meta property="og:type" content="website" />
@@ -33,22 +33,7 @@ export default {
   },
   footer: (
     <div>
-      <hr />
-      <a href="https://twitter.com/shuding_" target="_blank">
-        Twitter
-      </a>{" "}
-      ·{" "}
-      <a href="https://github.com/shuding" target="_blank">
-        GitHub
-      </a>{" "}
-      ·{" "}
-      <a href="https://instagram.com/_shuding" target="_blank">
-        Instagram
-      </a>{" "}
-      ·{" "}
-      <a href="mailto:g@shud.in" target="_blank">
-        g@shud.in
-      </a>
+
       <small style={{ display: "block", marginTop: "8rem" }}>
         <abbr
           title="This site and all its content are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
@@ -56,7 +41,7 @@ export default {
         >
           CC BY-NC 4.0
         </abbr>{" "}
-        <time>{YEAR}</time> © Shu Ding.
+        <time>{YEAR}</time> © JetSquirrel.
         <a href="/feed.xml">RSS</a>
         <style jsx>{`
           a {
